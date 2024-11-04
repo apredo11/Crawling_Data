@@ -1,2 +1,2 @@
 # Crawling_Data
-Tugas 10 Crawling Data
+Repository ini berisi file crawling data komentar pada platform youtube
